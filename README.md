@@ -18,7 +18,7 @@ I have a solid foundation in programming languages like Python and C++ due to my
 
 **Skills:**
 
-Programming: C++, HTML, CSS, Python
+Programming: C++, HTML, CSS, Python, React, Nodejs, Nextjs
 Data Science: Machine learning, data visualization, data analysis
 Tools: SQL, Excel, Jupyter Notebook
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLTK, and more
