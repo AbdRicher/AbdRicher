@@ -8,11 +8,6 @@
 
 📫 How to reach me: Explore [My Portofio Website](https://portoflio-website-beta.vercel.app/)
 
-😄 Pronouns: ...
-
-⚡ Fun fact: ...
-
-
 **About Me**
 
 My name is **Abdullah Amjad**.
