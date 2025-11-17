@@ -1,10 +1,12 @@
-👋 Hi, I’m @AbdRicher
+Hi, I’m @AbdRicher
 
-👀 I’m interested in Artificial Intelligence
+I’m interested in Artificial Intelligence
 
-🌱 I’m currently learning Artificial Intelligence
+I’m currently learning Artificial Intelligence
 
-💞️ I’m looking to collaborate on Artificial Intelligence
+I’m currently Working in MERN Stack Development 
+
+I’m looking to collaborate on Artificial Intelligence and MERN Development
 
 📫 How to reach me: Explore [My Portofio Website](https://portoflio-website-beta.vercel.app/)
 
@@ -21,7 +23,7 @@ I have a solid foundation in programming languages like Python and C++ due to my
 Programming: C++, HTML, CSS, Python, React, Nodejs, Nextjs
 Data Science: Machine learning, data visualization, data analysis
 Tools: SQL, Excel, Jupyter Notebook
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLTK, and more
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLTK, express, and more
 
 **Career Goals:**
 
