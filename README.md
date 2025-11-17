@@ -8,7 +8,7 @@ I’m currently Working in MERN Stack Development
 
 I’m looking to collaborate on Artificial Intelligence and MERN Development
 
-📫 How to reach me: Explore [My Portofio Website](https://portoflio-website-beta.vercel.app/)
+How to reach me: Explore [My Portofio Website](https://portoflio-website-beta.vercel.app/)
 
 **About Me**
 
