@@ -15,7 +15,6 @@ How to reach me: Explore [My Portofio Website](https://portoflio-website-beta.ve
 My name is **Abdullah Amjad**.
 
 I am a passionate student of BS Computer Science at the University of Management and Technology (UMT), Lahore. I have both theoretical and practical knowledge in various computer science domains, including Data Science, Data Analysis, and Web Development.
-
 I have a solid foundation in programming languages like Python and C++ due to my coursework and projects. Additionally, I possess expertise in database administration and query creation. I have a particular interest in data science, and I continually work to enhance my knowledge through self-study and real-world projects.
 
 **Skills:**
